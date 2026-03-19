@@ -105,9 +105,3 @@ Run the notebooks in order:
 cd Streamlit
 streamlit run app.py
 ```
-
----
-
-## License
-
-MIT License
